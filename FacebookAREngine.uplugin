@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FacebookAREngine",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "The Collective",
+	"CreatedByURL": "https://developers.facebook.com/products#augmented-reality",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FacebookAREngine",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
